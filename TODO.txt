@@ -1,0 +1,21 @@
+TODOs:
+
+AppVida
+
+Proyecto AppVida:
+-Generar un documento con los objetivos minimos validos para poder llamarlo una PoC real.
+-Analisis de arquitectura del software.
+-Generar proyecto (QT5? Parece una buena idea usarlo como silver bullet para ahorrarme iOS/Android Development).
+
+
+Pantalla Principal:
+-Muestra Botones
+	-Hasta 2 acciones por pantalla
+	-Boton de crear nueva accion
+	-Boton de confirmacion de la accion
+
+Pantalla de Accion:
+	-Muestra un mensaje
+	-Muestra una imagen
+	-Muestra un boton para ir al siguiente paso
+

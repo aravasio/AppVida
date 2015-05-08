@@ -1,0 +1,7 @@
+Reglas de trabajo:
+
+Coding Standards:
+-QT Coding Style and Conventions
+	https://wiki.qt.io/Coding_Conventions
+	https://wiki.qt.io/Qt_Coding_Style
+
